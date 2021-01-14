@@ -1,0 +1,5 @@
+Smith,Liam,14,Bucuresti,blue,bad
+Brown,Noah,19,Bucuresti,pink,good
+Williams,Benjamin,7,Bucuresti,blue,good
+Wilson,Mason,23,Bucuresti,blue,bad
+Miller,James,2,Bucuresti,pink,bad
